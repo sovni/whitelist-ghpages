@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/whitelist-ghpages/static/css/main.5e4e9510.chunk.css",
+    "main.js": "/whitelist-ghpages/static/js/main.109bb80e.chunk.js",
+    "main.js.map": "/whitelist-ghpages/static/js/main.109bb80e.chunk.js.map",
+    "runtime-main.js": "/whitelist-ghpages/static/js/runtime-main.6bad9173.js",
+    "runtime-main.js.map": "/whitelist-ghpages/static/js/runtime-main.6bad9173.js.map",
+    "static/css/2.63f31f8d.chunk.css": "/whitelist-ghpages/static/css/2.63f31f8d.chunk.css",
+    "static/js/2.4310dcdf.chunk.js": "/whitelist-ghpages/static/js/2.4310dcdf.chunk.js",
+    "static/js/2.4310dcdf.chunk.js.map": "/whitelist-ghpages/static/js/2.4310dcdf.chunk.js.map",
+    "index.html": "/whitelist-ghpages/index.html",
+    "precache-manifest.c6d3924f87f9b4d0f9301aaf8f58da2c.js": "/whitelist-ghpages/precache-manifest.c6d3924f87f9b4d0f9301aaf8f58da2c.js",
+    "service-worker.js": "/whitelist-ghpages/service-worker.js",
+    "static/css/2.63f31f8d.chunk.css.map": "/whitelist-ghpages/static/css/2.63f31f8d.chunk.css.map",
+    "static/css/main.5e4e9510.chunk.css.map": "/whitelist-ghpages/static/css/main.5e4e9510.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bad9173.js",
+    "static/css/2.63f31f8d.chunk.css",
+    "static/js/2.4310dcdf.chunk.js",
+    "static/css/main.5e4e9510.chunk.css",
+    "static/js/main.109bb80e.chunk.js"
+  ]
+}
